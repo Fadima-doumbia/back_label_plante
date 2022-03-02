@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Fadima-doumbia/back_label_plante/issues"
   },
-  "homepage": "https://github.com/Fadima-doumbia/back_label_plante#readme"
+  "homepage": "https://github.com/Fadima-doumbia/back_label_plante#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
 }
