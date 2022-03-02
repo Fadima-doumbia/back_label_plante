@@ -1,4 +1,4 @@
-{//avec le npm init cree un package.json
+{
   "name": "back_la_belle_plant",
   "version": "1.0.0",
   "description": "",
